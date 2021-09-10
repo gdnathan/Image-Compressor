@@ -1,0 +1,6 @@
+.stack-work/
+*~
+imageCompressor.cabal
+imageCompressor
+dist-newstyle/
+.test
